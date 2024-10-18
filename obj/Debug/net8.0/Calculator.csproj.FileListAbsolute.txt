@@ -1,0 +1,14 @@
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\bin\Debug\net8.0\Calculator.exe
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+c:\Users\agftywq\Desktop\عال\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
